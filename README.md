@@ -1,4 +1,4 @@
-### Oie! Eu sou a Fernanda, estudante de desenvolvimento front-end.  😊
+### Oie! Eu sou a Fernanda, analista de desenvolvimento de sistemas.  😊
 
 <div>
 <a href="https://github.com/Tatschfer">
