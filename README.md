@@ -1,12 +1,5 @@
 ### Oie! Eu sou a Fernanda, analista de desenvolvimento de sistemas.  😊
 
-<div>
-<a href="https://github.com/Tatschfer">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatschfer&layout=compact&langs_count=7&theme=dracula" width="400" height="400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tatschfer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400" height="400"/>
-</div>
-
-
 ##### Contatos:
 
 <div>
