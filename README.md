@@ -16,6 +16,6 @@
  </td><td valign="top" width="25%">
 
 ## Linkedin & Publicações:
-<img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
-<a>https://www.linkedin.com/in/fernandaatatsch/</a>
-Revelo Dev Community: https://community.revelo.com.br/author/fertatsch/
+Linkedin: <a>https://www.linkedin.com/in/fernandaatatsch/</a>
+
+Revelo Dev Community: <a>https://community.revelo.com.br/author/fertatsch/</a>
