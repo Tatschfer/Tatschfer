@@ -1,6 +1,5 @@
 # Oi 👋, eu sou a Fer! 😊  
 
- ## Github Stats:
 <p align="center">
     <a href="https://github.com/Tatschfer">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tatschfer&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
