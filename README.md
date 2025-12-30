@@ -7,7 +7,7 @@
     </a>
 </p>
 
-##Conhecimentos & Experiências:
+## Conhecimentos & Experiências:
 
 <div>  
        <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,flask,html,css,bootstrap,js,jquery,angular,react,vue,mysql,dynamodb,mongodb,elasticsearch,figma,firebase,postman,wordpress,unity&perline=10" /> 
