@@ -1,4 +1,4 @@
-# Oi 👋 Eu sou a Fer, dev fullstack.
+# Oi 👋 Eu sou a Fer.
 
 <p>
     <a href="https://github.com/Tatschfer">
